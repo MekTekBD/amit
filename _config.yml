@@ -1,0 +1,26 @@
+# top level stuff you probably don't need to touch
+
+
+
+
+# edit here to achieve your personal greatness
+url: http://amit.mektekbd.com
+baseurl: /amit/
+title: Kazi Amit Hasan
+author: Kazi Amit Hasan
+description: Personal blog and resume
+avatar: amit.jpg
+email: kaziamithasan89@gmail.com
+phone: +8801768576780
+facebook: amit.hasan.shuvo
+github: AmitHasanShuvo # username
+twitter: AmitHasanShuvo1
+linkedin: kazi-amit-hasan-514443140/
+stackoverflow: users/8110220/kazi-amit-hasan #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus 
+disqus: MekTek
+google_analytics: UA-69391421-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
